@@ -1,0 +1,8 @@
+{
+  "name": "gribanalytics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "61bdfef9"
+}
